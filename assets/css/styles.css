@@ -79,6 +79,7 @@ a.btn-cta-secondary,
   color: #fff;
   font-weight: 600;
   text-transform: uppercase;
+  box-shadow: 2px 2px 4px #888;
 }
 a.btn-cta-secondary:hover,
 .btn-cta-secondary:hover {
@@ -125,6 +126,7 @@ iframe {
 .header .btn {
   margin-top: 60px;
   font-weight: bold;
+  box-shadow: 2px 2px 4px #888;
 }
 .header .profile-image {
   margin-right: 30px;
