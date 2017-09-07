@@ -162,9 +162,11 @@ iframe {
   background-clip: padding-box;
   color: #fff;
   text-align: center;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 4px 6px 7px rgba(0,0,0,0.24)
 }
 .header .profile-content .social a:hover {
   background: #b0b7bf;
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
 }
 .header .profile-content .social a .fa {
   font-size: 20px;
